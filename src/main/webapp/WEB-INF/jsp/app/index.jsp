@@ -4,6 +4,6 @@
 
 <templates:app>
     <jsp:body>
-        hello world
+        hello Vaasa
     </jsp:body>
 </templates:app>
